@@ -46,4 +46,10 @@ class ContainsDuplicate
 
         return false;
     }
+
+    // @TODO
+    public static function useArrayRotate(array $nums): bool
+    {
+        return true;
+    }
 }
