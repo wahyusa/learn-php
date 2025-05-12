@@ -9,6 +9,7 @@ class ContainsDuplicate
     /**
      * @param  array<int, int>  $nums  Array of integers
      * @return bool True if there are duplicates, false otherwise
+     * @note O(n) time complexity - Fast enough!
      */
     public static function useHashMap(array $nums): bool
     {
@@ -26,6 +27,7 @@ class ContainsDuplicate
     /**
      * @param  array<int, int>  $nums  Array of integers
      * @return bool True if there are duplicates, false otherwise
+     * @note O(n²) time complexity - Too slow!
      */
     public static function useBruteForce(array $nums): bool
     {

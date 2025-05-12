@@ -36,3 +36,13 @@ test('HASHMAP can not find duplicate data in array if no duplicate data', functi
 
     expect($result)->toBe(false);
 });
+
+// Optional
+
+// test('useHashMap returns the duplicate number instead of true', function (): void {
+//     $nums = [1, 2, 3, 4, 2];
+
+//     $result = ContainsDuplicate::useHashMap($nums);
+
+//     expect($result)->toBe(2);
+// });
