@@ -1,0 +1,17 @@
+Test write from Cloud PC XRCloud USA
+
+IP 64.62.245.104
+Location Covina, California US
+Browser Chrome 136.0.0.0
+ISP Xrcloud Net Inc
+OS Win 10, but it is win 11
+
+(detected by iplocation.net)
+
+This text created through Windows Terminal
+Using Neovim (without ricing LOL)
+
+DXDIAG Result 
+
+FUCK JUST SCREENSHOOT IT INSTEAD OF WRITING IT HERE
+
